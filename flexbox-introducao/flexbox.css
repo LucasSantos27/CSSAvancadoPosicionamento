@@ -14,7 +14,7 @@ Sendo o pai um container e os filhos items do container.
 
 /* O display flex no container, fará 
 com que os filhos diretos se comportem como elementos flex */
-.container {
+ .container {
 	display: flex;
 }
 
