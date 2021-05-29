@@ -24,7 +24,7 @@ Independente da forma, todos funcionam responsivamente.
 
 # Brafé 2
 <p align = "center">
-<img src="brafe-2\brafe-2-puro\img\brafe.png" alt="Logo Brafé 2">
+<img src="brafe-1\brafe-1-puro\img\brafe.png" alt="Logo Brafé 2">
 </p>
 O segundo projeto criado nesse curso foi uma simples página de um comércio online de café, como dito antes, a idéia não é fazer nada extraordinário, e sim treinar as formas de posicionamento dos itens:
 
@@ -45,4 +45,28 @@ Independente da forma, todos funcionam responsivamente.
 <p align = "center">
 <img src="https://i.ibb.co/NNcqKhH/brafe2-1-mobile.jpg" alt="Brafe 2 mobile screenshots" border="0">
 </p>
+
+# Brafé 3
+<p align = "center">
+<img src="brafe-1\brafe-1-puro\img\brafe.png" alt="Logo Brafé 3">
+</p>
+O terceiro projeto criado nesse curso foi uma simples página de um CMS para gerenciar uma loja de cafés, como dito antes, a idéia não é fazer nada extraordinário, e sim treinar as formas de posicionamento dos itens:
+
+- A primeira é o CSS totalmente puro;
+- O segundo é utilizando flexbox;
+- E por último utilizando o framework Bootstrap.
+
+Independente da forma, todos funcionam responsivamente.
+
+
+# Screenshots do Brafé 3
+<p align = "center">
+<img src="https://i.ibb.co/0MtstsX/brafe3.jpg" alt="Brafe 3 screenshots" border="0">
+</p>
+
+# Screenshots do Brafé 3 - Versão mobile
+<p align = "center">
+<img src="https://i.ibb.co/HV5dC6K/brafe3-mobile.jpg" alt="Brafe 3 mobile screenshots" border="0">
+</p>
+
 
